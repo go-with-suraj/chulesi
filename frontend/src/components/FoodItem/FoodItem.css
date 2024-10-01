@@ -32,11 +32,11 @@
 }
 
 .food-item-dese{
-    color: #676767;
+    color: var(--primary);
     font-size: 12px;
 }
 .food-item-price{
-    color: tomato;
+    color: var(--primary);
     font-size: 22px;
     font-weight: 500px;
 }
