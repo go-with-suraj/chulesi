@@ -19,16 +19,16 @@
 }
 .header-contents h2{
     font-weight: 500;
-    color: white;
+    color: var(--primary);
     font-size: max(4.5vw,22px);
 }
 .header-contents p{
-    color: white;
+    color: var(--primary);
     font-size: 1vw;
 }
 .header-contents button{
     border: none;
-    color:#747474;
+    color:var(--primary);
     font-weight: 500;
     padding: 1rem 2.3vw;
     background-color: white;

@@ -55,7 +55,7 @@
 
 .cart-total button{
     border: none;
-    color: white;
+    color: var(--primary);
     background-color: var(--primary);
     width: max(15vw,200px);
     padding: 12px 0px;
@@ -69,7 +69,7 @@
 }
 
 .cart-promocode p{
-    color: #555;
+    color: var(--primary);
 }
 
 .cart-promocode-input{
@@ -93,7 +93,7 @@
     padding: 12px 5px;
     background-color: black;
     border: none;
-    color: white;
+    color: var(--primary);
     border-radius: 4px;
 }
 
